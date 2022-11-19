@@ -8,11 +8,11 @@ const main = async () => {
 
     console.log(`\nBlock Number: ${block}\n`)
 
-     const blockInfo = await provider.getBlock(3)
+    //  const blockInfo = await provider.getBlock(block)
 
-     console.log(blockInfo)
+    //  console.log(blockInfo)
 
-     const { transactions } = await provider.getBlockWithTransactions(3)
+     const { transactions } = await provider.getBlockWithTransactions(block)
 
      console.log(`\nLogging first transaction in block:\n`)
      console.log(transactions[0])
