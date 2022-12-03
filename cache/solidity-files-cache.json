@@ -1,0 +1,2144 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\AbiDecode.sol": {
+      "lastModificationDate": 1669822450367,
+      "contentHash": "cdc76d1fe52ecf7f4f73df06b59c9b5d",
+      "sourceName": "contracts/AbiDecode.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "AbiDecode"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\AbiEncode.sol": {
+      "lastModificationDate": 1669822432964,
+      "contentHash": "104c59385b6f50e94b33081019353264",
+      "sourceName": "contracts/AbiEncode.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "AbiEncode",
+        "IERC20",
+        "Token"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Account.sol": {
+      "lastModificationDate": 1669290962623,
+      "contentHash": "e069ea15dc66f323e9ae147744e09022",
+      "sourceName": "contracts/Account.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Account"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Applications\\EtherWallet.sol": {
+      "lastModificationDate": 1669858194455,
+      "contentHash": "d598743aafc56b73142f32310999fd45",
+      "sourceName": "contracts/Applications/EtherWallet.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "EtherWallet"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Array.sol": {
+      "lastModificationDate": 1669286540219,
+      "contentHash": "828b7e4b172be4f5bebccfc34c0c666e",
+      "sourceName": "contracts/Array.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Array"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\ArrayRemoveByShifting.sol": {
+      "lastModificationDate": 1669289256582,
+      "contentHash": "7229201c83d1c953eac7e4182a39f4e6",
+      "sourceName": "contracts/ArrayRemoveByShifting.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "ArrayRemoveByShifting"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\ArrayReplaceFromEnd.sol": {
+      "lastModificationDate": 1669289378756,
+      "contentHash": "2dd6f2d8e38cd5ec7a71c4997438988f",
+      "sourceName": "contracts/ArrayReplaceFromEnd.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "ArrayReplaceFromEnd"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Ballot.sol": {
+      "lastModificationDate": 1669802555999,
+      "contentHash": "2ce0706017caf1a7649fceb19366b414",
+      "sourceName": "contracts/Ballot.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "Ballot"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Bitwise.sol": {
+      "lastModificationDate": 1669825588056,
+      "contentHash": "598471902f916f571f955b379460172d",
+      "sourceName": "contracts/Bitwise.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "BitwiseOps"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Call.sol": {
+      "lastModificationDate": 1669804749906,
+      "contentHash": "401f56a0410561ac1442f2ce6eb01f81",
+      "sourceName": "contracts/Call.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Caller",
+        "Receiver"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\CallingContract.sol": {
+      "lastModificationDate": 1669810439055,
+      "contentHash": "3c7c6e168349a90ac9ee2b2add7a688c",
+      "sourceName": "contracts/CallingContract.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Callee",
+        "Caller"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Constants.sol": {
+      "lastModificationDate": 1669284892698,
+      "contentHash": "8ff536cb240f9066dcaa544f46ee2b83",
+      "sourceName": "contracts/Constants.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Constants"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Constructor.sol": {
+      "lastModificationDate": 1669619980631,
+      "contentHash": "49b7a177eeda13eaf4b29bec6b2711b9",
+      "sourceName": "contracts/Constructor.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "X",
+        "Y"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Counter.sol": {
+      "lastModificationDate": 1669802562614,
+      "contentHash": "eb715bb9cd7c65c1db2b8d19bbf0098c",
+      "sourceName": "contracts/Counter.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Counter"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\DataLocations.sol": {
+      "lastModificationDate": 1669290089759,
+      "contentHash": "dc7363c9f1afa657acba0761e8a69d29",
+      "sourceName": "contracts/DataLocations.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "DataLocations"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Delegatecall.sol": {
+      "lastModificationDate": 1669808563631,
+      "contentHash": "3fe11ce160a04f4c7fd7cda7c1c86d04",
+      "sourceName": "contracts/Delegatecall.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "A",
+        "B"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Enum.sol": {
+      "lastModificationDate": 1669289602702,
+      "contentHash": "5d0276ba2e32d21c93fb506f7d70e824",
+      "sourceName": "contracts/Enum.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./EnumDeclaration.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Enum"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\EnumDeclaration.sol": {
+      "lastModificationDate": 1669289583441,
+      "contentHash": "4afae62375d8b2ae418d2acff56a7bf5",
+      "sourceName": "contracts/EnumDeclaration.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": []
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Enum1.sol": {
+      "lastModificationDate": 1669289535766,
+      "contentHash": "1d93af218f431a7e0dec8251ed4b183f",
+      "sourceName": "contracts/Enum1.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Enum"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Error.sol": {
+      "lastModificationDate": 1669290720569,
+      "contentHash": "ba946928b98263a07f482f005acd5bc3",
+      "sourceName": "contracts/Error.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Error"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\EtherUnits.sol": {
+      "lastModificationDate": 1669285515994,
+      "contentHash": "5b73b25cd69b316879c6ecfcd861ed60",
+      "sourceName": "contracts/EtherUnits.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "EtherUnits"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Event.sol": {
+      "lastModificationDate": 1669291318564,
+      "contentHash": "9f15d5fa96eb155fdc9fb5ff02fbdbb2",
+      "sourceName": "contracts/Event.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Event"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Fallback.sol": {
+      "lastModificationDate": 1669804375386,
+      "contentHash": "49ad1351ee79e36c3aad6a6d293674d4",
+      "sourceName": "contracts/Fallback.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Fallback",
+        "SendToFallback"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Foo.sol": {
+      "lastModificationDate": 1669821406275,
+      "contentHash": "54c3b44c0e8db5e09eeb6b43406ccd7b",
+      "sourceName": "contracts/Foo.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Foo"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Import.sol": {
+      "lastModificationDate": 1669821446948,
+      "contentHash": "06031aa504d0ad4124e909658ad2ded7",
+      "sourceName": "contracts/Import.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./Foo.sol",
+        "./Foo.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Import"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Function.sol": {
+      "lastModificationDate": 1669290392623,
+      "contentHash": "ac9fd858e752c6e8dc1673d1822ded36",
+      "sourceName": "contracts/Function.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Function",
+        "XYZ"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\FunctionModifier.sol": {
+      "lastModificationDate": 1669291211799,
+      "contentHash": "3010a03803d3aa5deffc2700f5475c93",
+      "sourceName": "contracts/FunctionModifier.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "FunctionModifier"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\FunctionSelector.sol": {
+      "lastModificationDate": 1669821257827,
+      "contentHash": "301205b5ce95aa650a20cef038492ba1",
+      "sourceName": "contracts/FunctionSelector.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "FunctionSelector"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\GasGolf.sol": {
+      "lastModificationDate": 1669824403390,
+      "contentHash": "55292b43017631900bfaeb0a290c5e22",
+      "sourceName": "contracts/GasGolf.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "GasGolf"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\HelloWorld.sol": {
+      "lastModificationDate": 1669961915741,
+      "contentHash": "2d3f51090c88747144cabd0b5b772beb",
+      "sourceName": "contracts/HelloWorld.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "HelloWorld"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\IfElse.sol": {
+      "lastModificationDate": 1669285909103,
+      "contentHash": "26bb9a03966de251d61ce59a0aec44c9",
+      "sourceName": "contracts/IfElse.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "IfElse"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Immutable.sol": {
+      "lastModificationDate": 1669284933705,
+      "contentHash": "a3077e5c754a303101623f9c358296c2",
+      "sourceName": "contracts/Immutable.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Immutable"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Inheritance.sol": {
+      "lastModificationDate": 1669620283609,
+      "contentHash": "344cb0654670a14a1b0ca617964e20a0",
+      "sourceName": "contracts/Inheritance.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Interface.sol": {
+      "lastModificationDate": 1669802483979,
+      "contentHash": "ac269dfccbf25469f3be56283c61b7e2",
+      "sourceName": "contracts/Interface.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Counter",
+        "ICounter",
+        "MyContract",
+        "UniswapExample",
+        "UniswapV2Factory",
+        "UniswapV2Pair"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Keccak256.sol": {
+      "lastModificationDate": 1669822801266,
+      "contentHash": "7e7f06010e0bad31e5a76717e7e189f6",
+      "sourceName": "contracts/Keccak256.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "GuessTheMagicWord",
+        "HashFunction"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Library.sol": {
+      "lastModificationDate": 1669821707803,
+      "contentHash": "1402beaa961d0e940c6d4185ada4a874",
+      "sourceName": "contracts/Library.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Array",
+        "Math",
+        "TestArray",
+        "TestMath"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Loop.sol": {
+      "lastModificationDate": 1669286236027,
+      "contentHash": "13e96887e2ce3b5c8b14ed1957568127",
+      "sourceName": "contracts/Loop.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Loop"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Lottery.sol": {
+      "lastModificationDate": 1669802511847,
+      "contentHash": "826ba5c290d96155107bbdd4003bae86",
+      "sourceName": "contracts/Lottery.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "Lottery"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Mapping.sol": {
+      "lastModificationDate": 1669286387802,
+      "contentHash": "c56ac7347e2ad3ee0cc43ddd3a5d4b0b",
+      "sourceName": "contracts/Mapping.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Mapping"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\MostSignificantBitAssembly.sol": {
+      "lastModificationDate": 1669825581480,
+      "contentHash": "a4d6688b04b519a609289dc78cbfef1d",
+      "sourceName": "contracts/MostSignificantBitAssembly.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "MostSignificantBitAssembly"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\MostSignificantBitFunction.sol": {
+      "lastModificationDate": 1669825584535,
+      "contentHash": "faf0fcddf5de1094d635226c29388c44",
+      "sourceName": "contracts/MostSignificantBitFunction.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "MostSignificantBitFunction"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\NestedMapping.sol": {
+      "lastModificationDate": 1669286471408,
+      "contentHash": "313d89f14763c043a03b250332e1e4a4",
+      "sourceName": "contracts/NestedMapping.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "NestedMapping"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\NewContract.sol": {
+      "lastModificationDate": 1669811994417,
+      "contentHash": "4e2fc584c4da27d334875263211ce75f",
+      "sourceName": "contracts/NewContract.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Car",
+        "CarFactory"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Payable.sol": {
+      "lastModificationDate": 1669802747439,
+      "contentHash": "1a18177cc6ffa063972d13e8fa58b92c",
+      "sourceName": "contracts/Payable.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Payable"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Primitives.sol": {
+      "lastModificationDate": 1669280473917,
+      "contentHash": "ace3b9c11c1b3ae9c7ec9006fdb53a00",
+      "sourceName": "contracts/Primitives.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Primitives"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\SendingEther.sol": {
+      "lastModificationDate": 1669803433175,
+      "contentHash": "d5dd8207a20542c49ba4622b6d19dcd0",
+      "sourceName": "contracts/SendingEther.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "ReceiveEther",
+        "SendEther"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Shadow.sol": {
+      "lastModificationDate": 1669798706204,
+      "contentHash": "68a001b5dd180e70039f8716e7d3fcad",
+      "sourceName": "contracts/Shadow.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "A",
+        "C"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Signature.sol": {
+      "lastModificationDate": 1669824226214,
+      "contentHash": "6698297fd68f8d9ad23a3cde242d3c1b",
+      "sourceName": "contracts/Signature.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "VerifySignature"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\SimpleStorage.sol": {
+      "lastModificationDate": 1669285122162,
+      "contentHash": "052c5f93160ebf4b3c778a7f83f68839",
+      "sourceName": "contracts/SimpleStorage.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "SimpleStorage"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\StructDeclaration.sol": {
+      "lastModificationDate": 1669289654041,
+      "contentHash": "e0dc3f0a9ecd1e2a7f42263db7730e69",
+      "sourceName": "contracts/StructDeclaration.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": []
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Todo.sol": {
+      "lastModificationDate": 1669289691447,
+      "contentHash": "adef0b7662af29618491f62cf1c22b84",
+      "sourceName": "contracts/Todo.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./StructDeclaration.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Todos"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Super.sol": {
+      "lastModificationDate": 1669801477747,
+      "contentHash": "a91bd97c2cf10fd3417e281c34b7bc19",
+      "sourceName": "contracts/Super.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Todo1.sol": {
+      "lastModificationDate": 1669289879326,
+      "contentHash": "aafd8140a2193716248d85fe9987436a",
+      "sourceName": "contracts/Todo1.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Todos"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Token.sol": {
+      "lastModificationDate": 1669981842719,
+      "contentHash": "cdfb65b8adb0f019d79b79b96f2f40fe",
+      "sourceName": "contracts/Token.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Token"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\TryCatch.sol": {
+      "lastModificationDate": 1669821246273,
+      "contentHash": "4b9e6e076fe1efaef816a9e232d592b2",
+      "sourceName": "contracts/TryCatch.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Bar",
+        "Foo"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\UncheckedMath.sol": {
+      "lastModificationDate": 1669825593832,
+      "contentHash": "d67ebda30671d25301ec2d58972e95af",
+      "sourceName": "contracts/UncheckedMath.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "UncheckedMath"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Variables.sol": {
+      "lastModificationDate": 1669285985854,
+      "contentHash": "b43d153451ece6f0076285acc7f6cf1c",
+      "sourceName": "contracts/Variables.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Variables"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\ViewAndPure.sol": {
+      "lastModificationDate": 1669290449173,
+      "contentHash": "638d83d8327d67bcaf698b3429a8ba08",
+      "sourceName": "contracts/ViewAndPure.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "ViewAndPure"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\contracts\\Visibility.sol": {
+      "lastModificationDate": 1669801808631,
+      "contentHash": "8d62f99422085d3faca9632fbae9c6af",
+      "sourceName": "contracts/Visibility.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Base",
+        "Child"
+      ]
+    },
+    "C:\\Kanak\\BlockChainProjects\\SoliditySmartContracts\\node_modules\\hardhat\\console.sol": {
+      "lastModificationDate": 1669960468861,
+      "contentHash": "4ff3cd2f6272c9a6516e9ee4f2b967d3",
+      "sourceName": "hardhat/console.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">= 0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "console"
+      ]
+    }
+  }
+}
